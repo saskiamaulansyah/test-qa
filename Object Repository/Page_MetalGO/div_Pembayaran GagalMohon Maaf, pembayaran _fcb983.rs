@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pembayaran GagalMohon Maaf, pembayaran _fcb983</name>
+   <tag></tag>
+   <elementGuidId>58f5f6f3-1e02-4e80-8dfa-47bc95fd80c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.center-content.success-message.h-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>acd279d1-e5e8-438d-a2e9-74903e2cf5a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>center-content success-message h-100</value>
+      <webElementGuid>296dca1a-f12b-4e1f-9113-2cd1d70fb80b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pembayaran GagalMohon Maaf, pembayaran tiket Anda menggunakan Kartu Kredit tidak berhasil!</value>
+      <webElementGuid>80a1b93d-29d3-45a5-833e-91b6716976ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;container-page&quot;]/div[@class=&quot;card-page&quot;]/div[@class=&quot;img-banner-bg h-100&quot;]/div[@class=&quot;center-content success-message h-100&quot;]</value>
+      <webElementGuid>f1760f39-60ef-4ca5-a381-5a1d89d1904c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div</value>
+      <webElementGuid>590325c0-54e3-4fad-8d65-791dffe22362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>1d07b5f7-64bd-4473-85d8-ab4e5ace9896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pembayaran GagalMohon Maaf, pembayaran tiket Anda menggunakan Kartu Kredit tidak berhasil!' or . = 'Pembayaran GagalMohon Maaf, pembayaran tiket Anda menggunakan Kartu Kredit tidak berhasil!')]</value>
+      <webElementGuid>8cdf6890-4c0e-4106-99c7-9dfe0453e66f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

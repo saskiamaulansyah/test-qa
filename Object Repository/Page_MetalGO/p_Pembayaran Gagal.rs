@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Pembayaran Gagal</name>
+   <tag></tag>
+   <elementGuidId>b0be1699-597f-43c7-ac2f-f74f6575ccc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.font-size-24.font-weight-700.text-white.text-center.mb-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e5f5eea6-92ff-452d-bd6e-5ce68d052ed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-size-24 font-weight-700 text-white text-center mb-2</value>
+      <webElementGuid>0a5b35ed-58c0-4160-9303-496be45073d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pembayaran Gagal</value>
+      <webElementGuid>377d8b96-f5a7-4afe-9c3c-3a53cf403663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;container-page&quot;]/div[@class=&quot;card-page&quot;]/div[@class=&quot;img-banner-bg h-100&quot;]/div[@class=&quot;center-content success-message h-100&quot;]/p[@class=&quot;font-size-24 font-weight-700 text-white text-center mb-2&quot;]</value>
+      <webElementGuid>6c9b6aa7-78e3-4944-80c8-5015349262d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/p</value>
+      <webElementGuid>ecc8f53d-08d0-47a3-936c-7c0155a52ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pembayaran Gagal']/parent::*</value>
+      <webElementGuid>76adbb56-9185-4fca-879c-8f2d8796c3bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>0a956a8b-4974-42f1-80e2-09f66d60a127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Pembayaran Gagal' or . = 'Pembayaran Gagal')]</value>
+      <webElementGuid>9ca37a32-fb38-4502-8f2a-3bdd5c134e34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

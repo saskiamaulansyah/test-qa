@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cancel payment</name>
+   <tag></tag>
+   <elementGuidId>5046c320-726c-4483-99fc-ec86d826467c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cancelpymt']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cancelpymt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e86cd4ab-59df-435d-b05a-ed68c3e4b8a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cancelpymt</value>
+      <webElementGuid>f257937f-d403-4fa5-951f-733a4813763c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>cancel();</value>
+      <webElementGuid>45704930-7e82-4aa8-85b4-24cac0806d28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cancel payment</value>
+      <webElementGuid>29279577-f641-4093-a90b-fcb47c06b57b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cancelpymt&quot;)</value>
+      <webElementGuid>6e380cf7-b801-4dfd-b611-8220ac542368</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='cancelpymt']</value>
+      <webElementGuid>8ce694e6-b9c7-4689-9c8d-1c5afbfb544d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cancel payment')]</value>
+      <webElementGuid>2061414d-8d8e-4bf5-8f57-0dc5ab3eab7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 22.540,00'])[1]/following::a[1]</value>
+      <webElementGuid>6b516a81-d794-475a-afdf-6a02c8235318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Summary'])[1]/following::a[1]</value>
+      <webElementGuid>763f78b3-2a73-4187-a6e3-da94f9441fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Remaining'])[1]/preceding::a[1]</value>
+      <webElementGuid>f600ce2a-935e-4627-946b-fa615bce3342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cardholder Name'])[1]/preceding::a[1]</value>
+      <webElementGuid>52c893f6-1ed7-4d36-b564-3b7bd22a7696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancel payment']/parent::*</value>
+      <webElementGuid>7f24853f-cad4-49e4-aa2a-cedd3e263e68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>a6d43508-1798-426e-8b0c-8d63ed39672d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'cancelpymt' and (text() = ' Cancel payment' or . = ' Cancel payment')]</value>
+      <webElementGuid>984bae3f-0bd5-4b34-8758-7697b7f21259</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

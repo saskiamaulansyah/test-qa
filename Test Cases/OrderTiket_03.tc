@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OrderTiket_03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56ba6ca4-a3ec-4d05-ae7c-ea94e8589561</testCaseGuid>
+</TestCaseEntity>

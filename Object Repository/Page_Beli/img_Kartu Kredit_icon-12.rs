@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Kartu Kredit_icon-12</name>
+   <tag></tag>
+   <elementGuidId>a9d7cac5-6fa4-46ca-8f06-945dc2821b05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[6]/div/p/span[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon-arrow.when-closed > img.icon-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>cccd3910-b91c-4494-b653-fe649b961664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAACxLAAAsSwGlPZapAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFWSURBVHgB7da9SgNREAXgmaRQO20VIYWkEdFGTRk7TaVNCHa+gW+gr+ELaG2jWImtNoIIQhobxc50Vnq9R101P4uzm1khcD5Y2Cy7c89huUlEiIiIiIjoP9Trm5M4pCB55pesN9Yazb2XibFnHCvxXJz9nr+60dy1Pmcu8Bb0e6gG3fcsgfAhzvy5oubZ5gIq0un67FSiP/yHjvHxDG9Ay1vBucSg8FgDa1lnlK03PrZvnqari2dxiVZ8G+PJdRWtz1Tn5aF9eyEZpIUPWl67Ojm8ts4xFwCvEl7hIVMBGLaEZ3jIXADylvAOD7kKQNYSRYSH3AXAWqKo8J9rOVhubC9peD2Pw7r+BiRfu4Oue4T/mu0jrUQvz/Bg/iH7CwIhWDy9T7vHOzwMtQd6YU/Mzi0cB9Gp+G4ryb5A8Hh+UAq6c3l6dCejorbequAQIiIiIiIi6vcOwrvYQTOt9WAAAAAASUVORK5CYII=</value>
+      <webElementGuid>02dbdaa3-5a4b-4690-8952-6a6e2dfdc299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-12</value>
+      <webElementGuid>01638d7f-3f55-4d95-b9bf-3deadb65a21a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;container-page&quot;]/div[@class=&quot;card-page&quot;]/div[@class=&quot;form-order&quot;]/div[@class=&quot;container-cat mb-2&quot;]/div[@class=&quot;header-title collapsed&quot;]/p[@class=&quot;sub-sub-title text-dark font-weight-600 title-page d-flex m-0&quot;]/span[@class=&quot;icon-arrow when-closed&quot;]/img[@class=&quot;icon-12&quot;]</value>
+      <webElementGuid>71dc6c00-bd8b-4aff-9aa0-fcc857c4b73d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Beli/iframe_Beli Tiketmu Sekarang_eventiframe</value>
+      <webElementGuid>f437bded-98df-456f-b125-a7cd46573cfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[6]/div/p/span[2]/img</value>
+      <webElementGuid>35be5c6c-cb27-42e3-84fc-3791bde0e024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAACxLAAAsSwGlPZapAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFWSURBVHgB7da9SgNREAXgmaRQO20VIYWkEdFGTRk7TaVNCHa+gW+gr+ELaG2jWImtNoIIQhobxc50Vnq9R101P4uzm1khcD5Y2Cy7c89huUlEiIiIiIjoP9Trm5M4pCB55pesN9Yazb2XibFnHCvxXJz9nr+60dy1Pmcu8Bb0e6gG3fcsgfAhzvy5oubZ5gIq0un67FSiP/yHjvHxDG9Ay1vBucSg8FgDa1lnlK03PrZvnqari2dxiVZ8G+PJdRWtz1Tn5aF9eyEZpIUPWl67Ojm8ts4xFwCvEl7hIVMBGLaEZ3jIXADylvAOD7kKQNYSRYSH3AXAWqKo8J9rOVhubC9peD2Pw7r+BiRfu4Oue4T/mu0jrUQvz/Bg/iH7CwIhWDy9T7vHOzwMtQd6YU/Mzi0cB9Gp+G4ryb5A8Hh+UAq6c3l6dCejorbequAQIiIiIiIi6vcOwrvYQTOt9WAAAAAASUVORK5CYII=')]</value>
+      <webElementGuid>191eff73-a44d-4c69-b011-19b2121f289d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/img</value>
+      <webElementGuid>367169a9-d825-44b9-88f3-df71b77d259f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAACxLAAAsSwGlPZapAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFWSURBVHgB7da9SgNREAXgmaRQO20VIYWkEdFGTRk7TaVNCHa+gW+gr+ELaG2jWImtNoIIQhobxc50Vnq9R101P4uzm1khcD5Y2Cy7c89huUlEiIiIiIjoP9Trm5M4pCB55pesN9Yazb2XibFnHCvxXJz9nr+60dy1Pmcu8Bb0e6gG3fcsgfAhzvy5oubZ5gIq0un67FSiP/yHjvHxDG9Ay1vBucSg8FgDa1lnlK03PrZvnqari2dxiVZ8G+PJdRWtz1Tn5aF9eyEZpIUPWl67Ojm8ts4xFwCvEl7hIVMBGLaEZ3jIXADylvAOD7kKQNYSRYSH3AXAWqKo8J9rOVhubC9peD2Pw7r+BiRfu4Oue4T/mu0jrUQvz/Bg/iH7CwIhWDy9T7vHOzwMtQd6YU/Mzi0cB9Gp+G4ryb5A8Hh+UAq6c3l6dCejorbequAQIiIiIiIi6vcOwrvYQTOt9WAAAAAASUVORK5CYII=']</value>
+      <webElementGuid>a86c0cf8-c188-4d20-8c27-f8d6e47f8a22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

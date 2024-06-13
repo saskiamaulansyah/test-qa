@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Pembayaran Berhasil</name>
+   <tag></tag>
+   <elementGuidId>ddda1cc7-be46-4d49-ac59-f9b55d538cf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.font-size-24.font-weight-700.text-white.text-center.mb-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5c6e9907-5cc7-4792-b331-5492532213fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-size-24 font-weight-700 text-white text-center mb-2</value>
+      <webElementGuid>fea8e9d8-3ea6-4fd6-a515-b8f9848431a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pembayaran Berhasil</value>
+      <webElementGuid>3e3a83c6-0ab1-4e68-9b57-f7c721c24d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;container-page&quot;]/div[@class=&quot;card-page&quot;]/div[@class=&quot;img-banner-bg h-100&quot;]/div[@class=&quot;center-content success-message h-100&quot;]/p[@class=&quot;font-size-24 font-weight-700 text-white text-center mb-2&quot;]</value>
+      <webElementGuid>d6501fbf-b7cf-4933-8b85-29c007c91858</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/p</value>
+      <webElementGuid>3b902c71-1cc7-438e-84cb-062033b70df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pembayaran Berhasil']/parent::*</value>
+      <webElementGuid>3f05aa9b-d7ad-4c97-9454-3cb794c6eae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>e4492359-cadf-44e7-a1f4-ae63df0a45b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Pembayaran Berhasil' or . = 'Pembayaran Berhasil')]</value>
+      <webElementGuid>fcf78b31-b0f4-447b-8ff2-072e30af4ed3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

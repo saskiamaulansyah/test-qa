@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>803c6993-482e-449c-b331-84d7b8a5bd60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>946a5f2d-e7e6-4532-b5d9-2c6ce5692cea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z</value>
+      <webElementGuid>0093462d-31af-4070-b6c5-74143fcf681a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ticket&quot;)/div[@class=&quot;cat-ticket mt-2&quot;]/div[@class=&quot;ticket-qty&quot;]/button[@class=&quot;text-primary button-default icon-qty-plus me-2&quot;]/svg[@class=&quot;bi-plus b-icon bi&quot;]/g[1]/path[1]</value>
+      <webElementGuid>2e39926c-8839-47a3-84fe-e8ae58754603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Beli/iframe_Beli Tiketmu Sekarang_eventiframe</value>
+      <webElementGuid>1cdf771a-e82a-4165-b6d4-18fdbd3faef3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

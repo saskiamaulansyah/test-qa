@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tiket Category  GOLDIsi Data Pengunjung</name>
+   <tag></tag>
+   <elementGuidId>1fbf4ba1-def6-43eb-b3b9-87922a52a8f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.cat-visit.button-default.w-100.mt-2.border-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7098ffb4-3336-4f9e-b536-59818c072817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>64ad9d2e-e59b-4012-b69b-e42d32140d6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cat-visit button-default w-100 mt-2 border-danger</value>
+      <webElementGuid>8ff12ab2-ec50-4da1-bf63-e82f9720fb1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tiket Category : GOLDIsi Data Pengunjung </value>
+      <webElementGuid>2fcfbec3-9175-4158-97e6-c662588fbcdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;container-page&quot;]/div[@class=&quot;card-page&quot;]/div[@class=&quot;form-order&quot;]/div[@class=&quot;data-visitor&quot;]/div[2]/button[@class=&quot;cat-visit button-default w-100 mt-2 border-danger&quot;]</value>
+      <webElementGuid>9bd45dcf-623b-48b7-be4e-4432ba7009ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Beli Tiket/iframe_Beli Tiketmu Sekarang_eventiframe</value>
+      <webElementGuid>bdc2afa9-7371-4d0e-a63b-9d81bafe5c59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>edfdffa0-21f3-48b9-86ac-db04ea697932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[5]/div[2]/button</value>
+      <webElementGuid>4d66b019-f342-4724-b298-f5761d6fe719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Pengunjung'])[1]/following::button[1]</value>
+      <webElementGuid>62a19b8c-9789-4cb4-9099-7699bcb65624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test1'])[1]/following::button[2]</value>
+      <webElementGuid>2c04eaa0-5ffc-4885-8ffa-32a3ddb35d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Pembayaran'])[1]/preceding::button[2]</value>
+      <webElementGuid>d0407d80-5f09-4d61-8827-0b3f2796edf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 40.000'])[1]/preceding::button[2]</value>
+      <webElementGuid>7408a7bf-ae53-4aa3-b3e5-7647a440c74f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>51531556-7b75-4f4e-ad48-27b0501a583e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tiket Category : GOLDIsi Data Pengunjung ' or . = 'Tiket Category : GOLDIsi Data Pengunjung ')]</value>
+      <webElementGuid>dbdffb80-a560-4267-b8c2-00a210894629</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
